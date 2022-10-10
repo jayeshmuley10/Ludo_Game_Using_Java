@@ -1,7 +1,10 @@
 ![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)
+
 <h1 align="center">Hi 👋, I'm Jayesh Muley</h1>
 <h3 align="center">A passionate developer and competitive programmer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/fcf9f1_183add7b26954250a69bc0ac13f8ca50~mv2.gif/v1/fill/w_1600,h_900,al_c,q_90/file.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshmuley10&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshmuley10" /> </p>
 
@@ -9,7 +12,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **C, C++, Python**
+- 🎓 I'm currently studying at **Vellore Institue of Technology, Bhopal**
 
 - 📫 How to reach me **mr.jayeshvmuley@gmail.com**
 
@@ -31,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayeshmuley10&show_icons=true&locale=en" alt="jayeshmuley10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshmuley10&" alt="jayeshmuley10" /></p>
+
